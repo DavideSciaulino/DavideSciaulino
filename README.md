@@ -1,13 +1,9 @@
 # Hi there, I'm Davide👋 
 
-## I'm a Student and I wanto to become a Web Developer!!
+## I'm a Student and I want to become a Web Developer!!
 
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: I love making music
-
-### Connect with me:
-[![website](./img/instagram-light.svg)][instagram]
-[![website](./img/instagram-dark.svg)][instagram]
 
 ### Languages and Tools:
 
@@ -22,5 +18,7 @@
 <br />
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideSciaulino)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/losciauoff

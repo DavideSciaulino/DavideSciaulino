@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">I'm an Italian Student and an Amateur Developer</h3>
 
+---
+
 - 🌱 I’m currently learning **everythings(in particular Java and Java Swing)**
 
 - 📫 How to reach me **sciaulinodavide@gmail.com**

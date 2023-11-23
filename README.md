@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sciaulinodavide@gmail.com**
 
-- 💼 I'm currently working **React Native Mobile App**
+- 💼 I'm currently working **Flutter Mobile App**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

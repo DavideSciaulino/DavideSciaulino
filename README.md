@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">I'm an Italian Student and an Amateur Developer</h3>
+<h3 align="center">I'm an Italian CS Student and an Amateur Developer</h3>
 
 - 🌱 I’m currently learning **Computer Science** at Florence UniFI
 

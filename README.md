@@ -55,6 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/davidesciaulino/davidesciaulino/output/snake.svg alt="Snake animation" />
+![snake gif](https://raw.githubusercontent.com/davidesciaulino/davidesciaulino/output/snake.svg)
 
 ###
